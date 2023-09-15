@@ -6,11 +6,11 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationIcon>resources\calculator.ico</ApplicationIcon>
+    <ApplicationIcon>resources\calculator-removebg-preview.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="resources\calculator.ico" />
+    <Content Include="resources\calculator-removebg-preview.ico" />
   </ItemGroup>
 
   <ItemGroup>
