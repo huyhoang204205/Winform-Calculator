@@ -1,0 +1,5 @@
+D:\Projects\CalculatorV2\CalculatorV2\bin\Release\net6.0-windows\app.publish\CalculatorV2.exe
+D:\Projects\CalculatorV2\CalculatorV2\bin\Release\net6.0-windows\app.publish\CalculatorV2.dll
+D:\Projects\CalculatorV2\CalculatorV2\bin\Release\net6.0-windows\app.publish\CalculatorV2.deps.json
+D:\Projects\CalculatorV2\CalculatorV2\bin\Release\net6.0-windows\app.publish\CalculatorV2.runtimeconfig.json
+D:\Projects\CalculatorV2\CalculatorV2\bin\Release\net6.0-windows\app.publish\CalculatorV2.pdb
